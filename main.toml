@@ -1,80 +1,64 @@
 [cv]
-name = "胡图图"
-email = "tutuhu@gmail.com"
-phone = "(+86) 820-820-8820"
-website = "https://www.wikiwand.com/zh/大耳朵图图"
-birthday = "2000.06.21"
+name = "张磊"
+email = "1772884054@qq.com"
+phone = "(+86) 18010131458"
+birthday = "1996.11.21"
 # 路径
 avatar = ""
 
 [[educations]]
-school = "翻斗幼儿园"
-major = "软件工程"
-degree = "幼儿园"
-date = "2006.9 - now"
+school = "天津商业大学  自动化系、经济系"
+major = "自动化、经济数学"
+degree = "学士学位"
+date = "2015.9 - 2019.6"
 
 [[educations]]
-school = "翻斗学前班"
-major = "计算机科学与技术"
-degree = "学前班"
-date = "2003.9 - 2006.6"
+school = "中国科学院大学  人工智能学院（中国科学院自动化研究所培养）"
+major = "085410人工智能"
+degree = "电子信息硕士"
+date = "2020.9 - 2023.6"
 
-[[projects]]
-name = "Kubernetes"
-url = "https://github.com/kubernetes/kubernetes"
-date = "2014.6 - now"
-desc = "Kubernetes是一个开源的，用于管理云平台中多个主机上的容器化的应用"
-points = ["负责Kubernetes的网络部分", "负责Kubernetes的不知道什么部分"]
+[[internships & full-time job]]
+company = "中科院自动化研究所紫东太初大模型研究中心"
+jobtitle = "算法研发和工程协作"
+date = "2021.4 - 2022.6"
+points = ["多模态预训练平台开发与维护，参与构建基于Transformer架构的多模态统一预训练平台，支持图像、文本、语音数据的联合表征学习", "跨模态对齐与融合算法研究，参与团队视觉-语言跨模态对齐算法，通过对比学习与模态间注意力机制，提升模型在图文检索、视觉问答等任务中的性能。
+探索多模态提示学习（Prompt Learning）方法，设计可迁移的跨模态任务适配模块，支持下游任务快速微调","熟练掌握PyTorch等深度学习框架，具备大规模分布式训练、多模态融合算法、模型轻量化等实践经验，深入理解多模态预训练前沿技术，具备独立设计实验、分析数据与迭代算法的能力"]
 
-[[projects]]
-name = "Linux"
-url = "https://github.com/torvalds/linux"
-date = "2006.6 - 2022.6"
-desc = "Linux是一个开源的操作系统内核"
-points = [
-    "负责Linux的文件系统部分，包括ext4, btrfs, xfs, f2fs",
-    "负责Linux的网络部分，包括TCP/IP, UDP, SCTP, DCCP, IPv4, IPv6",
-]
+[[internships & full-time job]]
+company = "携程 酒店旅游业务场景的个性化推荐算法研究与工程优化工作"
+jobtitle = "推荐算法实习生"
+date = "2022.6 - 2023.6"
+points = ["参与排序模型从GBDT升级至DeepFM等深度模型项目，通过特征与结构优化，推动线上点击率提升12%，转化率提升9%", "应用多目标排序（MMOE）技术，有效平衡点击、转化等多维度目标，提升业务综合收益", "熟练掌握推荐系统（召回/排序/多目标）、Python/SQL/Spark、TensorFlow/PyTorch，具备扎实的数据驱动思维与全链路工程实践能力"]
 
-[[projects]]
-name = "翻斗幼儿园每日打卡"
-url = ""
-date = "2019.12 - 2023.1"
-desc = ""
-points = ["可以进行翻斗幼儿园每日打卡", "在线用户超过20"]
+[[internships & full-time job]]
+company = "北京月之暗面科技有限公司 长上下文多模态理解与应用算法研发"
+jobtitle = "大模型算法工程师"
+date = "2023.8 - 至今"
+points = ["长上下文结构增强算法开发：针对文本与视觉令牌序列过长导致的注意力崩溃问题，设计并实现了层次化注意力与稀疏激活机制，将模型对长达1M token文档的语义关联理解准确率提升15%", "多模态指令微调与评测体系构建：参与构建了涵盖复杂图表理解、长视频问答、跨页面检索的大规模指令微调数据集，设计了面向长上下文多模态任务的综合评测基准，驱动模型迭代方向", "核心场景应用落地：将上述能力成功应用于“智能文档分析”和“长视频内容摘要”两个内部产品中。在金融研报分析场景下，实现关键信息抽取与整合的准确率超过92%"]
 
-[[internships]]
-company = "翻斗大街翻斗花园2号楼"
-jobtitle = "端茶倒水"
-date = "2022.4 - 2022.6"
-points = ["负责端茶倒水", "负责浇花"]
+[[Social Business]]
+company = "北京波粒二象性科技有限公司和北京金策纵横咨询有限公司"
+jobtitle = "创始人"
+date = "2024.12 - 至今"
+points = ["WPD(wave-particle duality)基于混合模型的AI操作系统", "融资和技术团队困境，折腾几个月后，项目搁置", "现作为中关村AI北纬社区的OPC（One Person Company，一人公司）自己一人作为副业运营"]
 
-[[internships]]
-company = "翻斗幼儿园"
-jobtitle = "扮演小学生"
-date = "2022.4 - 2022.6"
-points = ["和张小帅一起玩", "和张小帅一起吃饭", "和张小帅一起睡觉(误)"]
+[[profile & skills]]
+name = "能力三角"
+desc = "信息技术，经济学直觉，Psssion"
 
-[[awards]]
-name = "最佳编导奖（获奖）"
-date = "2006.11.8"
+[[profile & skills]]
+name = "奖励和证书"
+desc = "中科院三好学生标兵,计算机软考（高级），中级经济师（金融），优秀毕业生"
 
-[[awards]]
-name = "优秀长篇美术片奖（获奖）"
-date = "2006.11.8"
+[[profile & skills]]
+name = "爱好兴趣"
+desc = "户外旅游、运动游泳、阅读财税⾦融商业类和历史类书籍类影视作品!性格即命运，语言即世界!"
 
-[[awards]]
-name = "中国电视艺术最高政府奖 - 星光奖"
-date = "2010.1.24"
+[[profile & skills]]
+name = "编程语言和工具"
+desc = "Python,Matlab,javaScript,HTML/CSS,Git, Vim, VS Code, Linux, Docker, MySQL, MongoDB, Redis"
 
-[[skills]]
-name = "编程语言"
-desc = "C/C++, Python, Java, JavaScript, HTML/CSS, PHP, SQL"
-
-[[skills]]
-name = "工具"
-desc = "Git, Vim, VS Code, Linux, Docker, MySQL, MongoDB, Redis"
-
-[[skills]]
-name = "语言"
-desc = "中文, 英语, 日语, 俄语, 法语, 德语, 西班牙语, 阿拉伯语, 葡萄牙语, 意大利语, 希腊语, 土耳其语"
+[[profile & skills]]
+name = "其他"
+desc = "中共党员，持续学习，优先级执行力，家乡河南正阳人，⾼瓴资本张磊、⻄湖⼤学校⻓施⼀公、360集团周鸿祎均为⽼乡"
